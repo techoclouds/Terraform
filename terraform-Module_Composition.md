@@ -192,7 +192,3 @@ terraform apply
 - **Inter-module communication** allows dependencies to be efficiently managed.
 - **Using nested modules** helps **organize and scale** infrastructure deployments.
 
-### 6.2 Next Steps
-- Learn about **Terraform Workspaces** to manage multiple environments.
-- Implement **CI/CD pipelines** for Terraform module automation.
-- Explore **module testing frameworks** for infrastructure validation.
